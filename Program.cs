@@ -13,7 +13,7 @@ class Program {
         Console.WriteLine("Insira a nota 3: ");
         number3 = double.Parse(Console.ReadLine());
 
-        double answer = ((number1 + number2 + number3) / 2);
+        double answer = ((number1 + number2 + number3) / 3);
         Console.WriteLine("Resultado da média: " + answer);
     }
 }

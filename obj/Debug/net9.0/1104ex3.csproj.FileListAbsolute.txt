@@ -12,3 +12,4 @@ C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\11
 C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex3\obj\Debug\net9.0\1104ex3.pdb
 C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex3\obj\Debug\net9.0\1104ex3.genruntimeconfig.cache
 C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex3\obj\Debug\net9.0\ref\1104ex3.dll
+C:\Users\eminh\OneDrive\Documentos\vscode\aula-de-C#\EmersonJunior.positivo28\1104ex3\obj\Debug\net9.0\1104ex3.sourcelink.json
